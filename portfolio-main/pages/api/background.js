@@ -5,7 +5,7 @@ const background = [
                 id: 0,
                 title: 'Academy @ Palumbo',
                 degree: 'General Grade School Education',
-                detail: "High School",
+                detail: "High Schoollllllllll",
                 year: '2016-2020'
             },
             {
